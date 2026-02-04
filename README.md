@@ -56,7 +56,7 @@ I'm a passionate developer learning to build secure and scalable software.
 ### 🏆 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=teto06920623&theme=radical&hide_border=true" height="140"/>
+  <img src="https://streak-stats.demolab.com/?user=teto06920623&theme=radical&hide_border=true" height="180"/>
 </div>
 
 ### 🐍 Contribution Snake Animation
