@@ -21,6 +21,12 @@
     <a href="https://wa.me/201001424065" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/>
     </a>
+    <a href="https://leetcode.com/u/teto06920623/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="30"/>
+    </a>
+    <a href="https://codeforces.com/profile/teto0692062" target="_blank">
+      <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="30"/>
+    </a>
 </p>
 
 ---
