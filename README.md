@@ -54,12 +54,10 @@ I'm a passionate developer learning to build secure and scalable software.
 ---
 
 ### 🏆 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teto06920623&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teto06920623&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats-bgs.vercel.app/api?username=teto06920623&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats-bgs.vercel.app/api/top-langs/?username=teto06920623&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph"  />
 </div>
-
 <br>
 
 <div align="center">
