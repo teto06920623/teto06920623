@@ -27,6 +27,9 @@
     <a href="https://codeforces.com/profile/teto0692062" target="_blank">
       <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="30"/>
     </a>
+    <a href="https://t.me/taha5051" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="30"/>
+  </a>
 </p>
 
 ---
